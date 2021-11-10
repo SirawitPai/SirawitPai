@@ -17,7 +17,8 @@
 
 
 ## 😈  Quotes  👿
-> "We don't need to know everything. Knowing as much as you need to know is enough."
+> "We don't need to know everything. Knowing as much as you need to know is enough." <br>
+
 > "Everything is created with our two hands, and it can also be destroyed with our two hands."
 
 
