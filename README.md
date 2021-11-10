@@ -1,11 +1,11 @@
 
 ### I'm Sirawit Boonthong, Welcome to my Github profile 😄 ###
 
-🧑‍💻 Hello, my name is Mr. Sirawit Boonthong, a fresh graduated student. Graduated from King Mongkut's University of Technology North Bangkok Faculty of Industrial Technology College of Technology Electronics Engineering Computer  I'm someone who likes coding and new things. So I never stop learning new things. 🇹🇭
+😁 Hello, my name is Mr. Sirawit Boonthong, a fresh graduated student. Graduated from King Mongkut's University of Technology North Bangkok Faculty of Industrial Technology College of Technology Electronics Engineering Computer  I'm someone who likes coding and new things. So I never stop learning new things. 
 
-💻 I'm looking for a job that interests me in Front-End , Back-End and FullStack fields. 
+💻 I'm looking for a job that interests me in Front-End , Back-End and FullStack fields.  💩
 
-🖥 I'm always learning new fields such as Mobile, DevOps. 😍
+🖥 I'm always learning new fields such as Mobile, DevOps.  👾
 
 ‼️‼️ You can view my profile details from this link.[SwapPai](https://sirawitpai.github.io/Profile-SirawitPai.github.io/?fbclid=IwAR0-IacZiD6BHbPLz_E6ZQAwIyo9081EHix99ADsjWEAPkD_vPcYQpn-1lc#) ‼️‼️<br>
 
