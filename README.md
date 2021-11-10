@@ -10,10 +10,10 @@
 ‼️‼️ You can view my profile details from this link.[SwapPai](https://sirawitpai.github.io/Profile-SirawitPai.github.io/?fbclid=IwAR0-IacZiD6BHbPLz_E6ZQAwIyo9081EHix99ADsjWEAPkD_vPcYQpn-1lc#) ‼️‼️<br>
 
 ## 🎮 Get in touch 
-♦️ [Facebook](https://www.facebook.com/SirawitPai.S/)<br>
-♣️ [Instagram](https://www.instagram.com/sirawit_pai/)<br>
-♥️ [Line](https://timeline.line.me/user/_dXe3MazhyAyrKaYb8WUee4veK4rE5MQydci3LLc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)<br>
-♠️ [linkedin](https://www.linkedin.com/in/sirawit-pai-13342b200/)<br>
+🔥 [Facebook](https://www.facebook.com/SirawitPai.S/)<br>
+🔥 [Instagram](https://www.instagram.com/sirawit_pai/)<br>
+🔥 [Line](https://timeline.line.me/user/_dXe3MazhyAyrKaYb8WUee4veK4rE5MQydci3LLc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)<br>
+🔥 [linkedin](https://www.linkedin.com/in/sirawit-pai-13342b200/)<br>
 
 
 ## 😈  Quotes  👿
