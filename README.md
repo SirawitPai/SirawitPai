@@ -9,7 +9,7 @@
 
 ‼️‼️ You can view my profile details from this link.[SwapPai](https://sirawitpai.github.io/Profile-SirawitPai.github.io/?fbclid=IwAR0-IacZiD6BHbPLz_E6ZQAwIyo9081EHix99ADsjWEAPkD_vPcYQpn-1lc#) ‼️‼️<br>
 
-![199889789_5647448038630919_7873229327831058378_n](https://user-images.githubusercontent.com/71228820/141656584-7ec1a774-32fa-4d08-a6a2-3e149f26f749.jpg)
+
 
 
 ## 🎮 Get in touch 
