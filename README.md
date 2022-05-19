@@ -19,7 +19,7 @@
 🔥 [Line](https://timeline.line.me/user/_dXe3MazhyAyrKaYb8WUee4veK4rE5MQydci3LLc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)<br>
 🔥 [linkedin](https://www.linkedin.com/in/sirawit-pai-13342b200/)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 
 ## 😈  Quotes  👿
