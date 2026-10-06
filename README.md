@@ -28,9 +28,6 @@ I enjoy turning ideas and designs into practical web experiences. I'm a detail-o
 
 
 ## 🎮 Get in touch 
-🔥 [Facebook](https://www.facebook.com/SirawitPai.S/)<br>
-🔥 [Instagram](https://www.instagram.com/sirawit_pai/)<br>
-🔥 [Line](https://timeline.line.me/user/_dXe3MazhyAyrKaYb8WUee4veK4rE5MQydci3LLc?utm_medium=windows&utm_source=desktop&utm_campaign=Profile)<br>
 🔥 [linkedin](https://www.linkedin.com/in/sirawit-pai-13342b200/)<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nextjs,py,java,php,mysql,firebase,express,mongodb,bootstrap,materialui,ps,ai,figma,blender,unity,docker)](https://skillicons.dev)
