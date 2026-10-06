@@ -1,11 +1,25 @@
 
-### I'm Sirawit Boonthong, Welcome to my Github profile 😄 ###
+# Hi, I'm Pai 👋
 
-😁 Hello, my name is Mr. Sirawit Boonthong, a fresh graduated student. Graduated from King Mongkut's University of Technology North Bangkok Faculty of Industrial Technology College of Technology Electronics Engineering Computer  I'm someone who likes coding and new things. So I never stop learning new things. 
+I'm **Sirawit Boonthong**, a Full Stack Developer based in Thailand with a strong focus on frontend development.
 
-💻 I'm looking for a job that interests me in Front-End , Back-End and FullStack fields.  💩
+I build responsive, user-focused web applications with **React, Next.js, and TypeScript**. My experience includes Web3 gaming platforms, admin dashboards, business applications, and Telegram mini-games.
 
-🖥 I'm always learning new fields such as Mobile, DevOps.  👾
+### 💻 What I work with
+
+- **Frontend:** React, Next.js, Vue.js, Nuxt.js, JavaScript, TypeScript
+- **Backend & Databases:** Node.js, Express.js, MongoDB, Firebase, MySQL
+- **Tools & UI Design:** Git, GitHub, Jenkins, Figma
+- **Other experience:** Three.js, digital wallet integration, LINE chatbots, and Dialogflow
+
+### 🌱 About me
+
+I enjoy turning ideas and designs into practical web experiences. I'm a detail-oriented developer who values teamwork, continuous learning, and adapting to new technologies.
+
+### 📫 Let's connect
+
+- [Portfolio](https://sirawitpai.github.io/Profile-SirawitPai.github.io/)
+- [Email](mailto:sirawitpai0@gmail.com)
 
 ‼️‼️ You can view my profile details from this link.[SwapPai]([https://sirawitpai.github.io/Profile-SirawitPai.github.io/?fbclid=IwAR0-IacZiD6BHbPLz_E6ZQAwIyo9081EHix99ADsjWEAPkD_vPcYQpn-1lc#](https://l.facebook.com/l.php?u=https%3A%2F%2Fsirawitpai.github.io%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExYkNhdVFnazViNHhNTUF2RHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5vPhqzeadCEXFEZ6QQrF0jYOKaA7JbhnyZgfOqpyzEtUcJ3hj9GubXTNXazg_aem_XhS_ksIp1O4zCaHWXwc4Vg&h=AT1FYMymgSzHY59-2-W1mN3bQZXeMdrbmZ9gV750fdiyDJMEjgsSxwykQ99owQUid2VPxdPQbOULs26a4mcrME39NMka_BTlE8H1euJhK1wozCQJ_gTuUxsictM3rYPWpurqlegM9_oVERAFAJsGw8DKAfs)) ‼️‼️<br>
 
